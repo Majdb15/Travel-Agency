@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/jhh977/Airline-System-Frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/jhh977/Airline-System-Backend.git
