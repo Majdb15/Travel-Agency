@@ -1,6 +1,0 @@
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/Majdb15/frontend-repo.git
-[submodule "backend"]
-	path = backend
-	url = https://github.com/Majdb15/backend-repo.git
